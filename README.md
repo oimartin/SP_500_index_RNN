@@ -5,7 +5,7 @@ The data is gathered from the yfinance library. A total of 1258 dates of open pr
 
 ![Candlestick_s&p_500](https://github.com/oimartin/SP_500_index_RNN/blob/main/images/canldestick_allyears.png?raw=true)
 
-Plotting all of the data in a canldestick chart, there was a general trend of increasing open, high, low and close prices. The lowest price was a low price on January 20, 2016 at $1812.29 and the highest price was a high price on December 27, 2019 at $3,247.93. 
+Plotting all of the data in a candlestick chart, there was a general trend of increasing open, high, low and close prices. The lowest price was a low price on January 20, 2016 at $1812.29 and the highest price was a high price on December 27, 2019 at $3,247.93. 
 
 ![boxplot_s&p_500](https://github.com/oimartin/SP_500_index_RNN/blob/main/images/boxplot_years_openHighlowClose.png?raw=true)
 ![hist_open_price_by_year](https://github.com/oimartin/SP_500_index_RNN/blob/main/images/compare_open_all.png?raw=true)
